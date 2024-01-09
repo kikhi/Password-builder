@@ -1,2 +1,2 @@
-# Password-builder
+# Password builder
 Secure pasword generator
